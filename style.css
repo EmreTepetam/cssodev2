@@ -1,0 +1,48 @@
+body {
+    margin: 30px;
+}
+.img {
+    margin: auto;
+    height: 113px;
+    
+}
+.yer{
+    margin-bottom: 3px;
+}
+.foto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+.content {
+    
+    height: 147px;
+}
+.search {
+    height: 64px;
+    background-color: lightgray;
+}
+.special {
+    float: left;
+background-color: #7EE5DA;
+height: 84px;
+width: 35%;
+text-align:center;
+}
+.google {
+    float: left;
+background-color: #62B3AA;
+height: 84px;
+width: 30%;
+text-align: center;
+}
+.help {
+    float: left;
+background-color: #70CCC2;
+height: 84px;
+width: 35%;
+text-align: center;
+}
+footer {
+    text-align: center;
+}
